@@ -1,6 +1,6 @@
 計算機程式設計 課程練習與作業
 ==
-## 課程簡介
+## 課程與程式簡介
  - 為測量系必修課，學習語言C++和部份C
  - 每一章節都有對應的程式練習，課程中有四次較大的作業
    - [CH1+2](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH1%2B2)：認識C++
@@ -19,5 +19,3 @@
    - [110_mid_exam_practice](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/110_mid_exam_practice)：110年期中考古題練習
    - [111_final_exam_practice](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/111_final_exam_practice)：111年期末考古題練習
    - [111_mid_exam_practice](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/111_mid_exam_practice)：111年期中考古題練習
-## repository介紹
- - 

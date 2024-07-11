@@ -3,7 +3,7 @@
 ## 課程與程式簡介
  - 為測量系必修課，學習語言C++和部份C
    
- - 每一章節都有對應的程式練習（至少五題），課程中有四次較大的作業
+ - 每一章節都有對應的程式練習（每章至少五題），課程中有四次較大的作業，最後撰寫四份考古題練習
    - [CH1+2](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH1%2B2)：認識C++
    - [遠端評分系統](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/%E9%81%A0%E7%AB%AF%E8%A9%95%E5%88%86%E7%B3%BB%E7%B5%B1)：巢狀迴圈的練習
    - [CH5-1](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH5-1)、[CH5-2](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH5-2)：格式化輸出

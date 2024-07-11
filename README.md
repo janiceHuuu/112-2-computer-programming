@@ -3,7 +3,7 @@
 ## 課程簡介
  - 為測量系必修課，學習語言C++和部份C
  - 每一章節都有對應的程式練習，課程中有四次較大的作業
-   - [CH1+2]()：認識C++
+   - [CH1+2](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH1%2B2)：認識C++
    - [CH5-1](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH5-1)、[CH5-2](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH5-2)：格式化輸出
    - [CH6](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH6)、[CH7](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH7)：函數
    - [CH8-1](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH8-1)、[CH8-2](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH8-2)：陣列與字串

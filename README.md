@@ -3,7 +3,7 @@
 ## 課程簡介
  - 為測量系必修課，學習語言C++和部份C
  - 每一章節都有對應的程式練習，課程中有四次較大的作業
-   - CH5：格式化輸出
+   - [CH5](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH5-1)：格式化輸出
    - CH6、7：函數
    - CH8：陣列與字串
    - CH9、10：指標

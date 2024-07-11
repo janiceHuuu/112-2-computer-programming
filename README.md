@@ -1,7 +1,7 @@
 計算機程式設計
 ==
 ## 課程與程式簡介
- - 為測量系必修課，學習語言C++和部份C
+ - 為測量系必修課，3學分，學習語言C++和部份C
    
  - 每一章節都有對應的程式練習（每章至少五題），課程中有四次較大的作業，最後撰寫四份考古題練習
    - [CH1+2](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH1%2B2)：認識C++

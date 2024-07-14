@@ -15,7 +15,7 @@
    - [HW1](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/HW1)：格式化輸出與函數的語法練習
    - [HW2](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/HW2)：撰寫兩種猜數字遊戲，並設計第三種猜數字遊戲
    - [HW3](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/HW3)：字串與陣列的語法練習
-   - [HW4](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/HW4)：撰寫一種棋盤遊戲，並設計第二種猜數字遊戲
+   - [HW4](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/HW4)：撰寫一種棋盤遊戲，並設計第二種棋盤遊戲
    - [109_final_exam_practice](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/109_final_exam_practice)：109年期末考古題練習
    - [110_mid_exam_practice](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/110_mid_exam_practice)：110年期中考古題練習
    - [111_final_exam_practice](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/111_final_exam_practice)：111年期末考古題練習

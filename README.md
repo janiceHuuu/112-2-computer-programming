@@ -1,9 +1,9 @@
 計算機程式設計
 ==
 ## 課程與程式簡介
- - 為測量系必修課，學習語言C++和部份C
+ - 為測量系必修課，3學分，學習語言C++和部份C
    
- - 每一章節都有對應的程式練習，課程中有四次較大的作業
+ - 每一章節都有對應的程式練習（每章至少五題），課程中有四次較大的作業，最後撰寫四份考古題練習
    - [CH1+2](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH1%2B2)：認識C++
    - [遠端評分系統](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/%E9%81%A0%E7%AB%AF%E8%A9%95%E5%88%86%E7%B3%BB%E7%B5%B1)：巢狀迴圈的練習
    - [CH5-1](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH5-1)、[CH5-2](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/CH5-2)：格式化輸出
@@ -15,7 +15,7 @@
    - [HW1](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/HW1)：格式化輸出與函數的語法練習
    - [HW2](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/HW2)：撰寫兩種猜數字遊戲，並設計第三種猜數字遊戲
    - [HW3](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/HW3)：字串與陣列的語法練習
-   - [HW4](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/HW4)：撰寫一種棋盤遊戲，並設計第二種猜數字遊戲
+   - [HW4](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/HW4)：撰寫一種棋盤遊戲，並設計第二種棋盤遊戲
    - [109_final_exam_practice](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/109_final_exam_practice)：109年期末考古題練習
    - [110_mid_exam_practice](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/110_mid_exam_practice)：110年期中考古題練習
    - [111_final_exam_practice](https://github.com/janiceHuuu/janiceHuuu-112-2-computer-programming/tree/main/111_final_exam_practice)：111年期末考古題練習
